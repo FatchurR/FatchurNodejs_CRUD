@@ -1,0 +1,18 @@
+{
+  "name": "fatchurr_crud_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fatchurr_crud_nodejs": "file:",
+    "firebase-admin": "^13.4.0"
+  },
+  "description": ""
+}
